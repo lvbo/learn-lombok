@@ -1,4 +1,4 @@
-# com.lvbo.learn.learn.lombok
+# com.lvbo.learn.learn.lombok.example
 
 Lombok官方的例子
 
