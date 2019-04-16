@@ -1,4 +1,4 @@
-package com.lvbo.learn.lombok.learn.lombok;
+package com.lvbo.learn.learn.lombok;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

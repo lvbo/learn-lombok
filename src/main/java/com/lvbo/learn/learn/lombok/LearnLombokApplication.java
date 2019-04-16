@@ -1,4 +1,4 @@
-package com.lvbo.learn.lombok.learn.lombok;
+package com.lvbo.learn.learn.lombok;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
