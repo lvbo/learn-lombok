@@ -5,6 +5,9 @@ import lombok.val;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+/**
+ * @author lvbo
+ */
 public class ValExample {
 
     public String example() {

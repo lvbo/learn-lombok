@@ -6,10 +6,15 @@ import lombok.Value;
 import lombok.experimental.NonFinal;
 import lombok.experimental.Wither;
 
+/**
+ * @author lvbo
+ */
 @Value
 public class ValueExample {
+
     String name;
-    @Wither(AccessLevel.PACKAGE) @NonFinal
+    @Wither(AccessLevel.PACKAGE)
+    @NonFinal
     int age;
     double score;
     protected String[] tags;
