@@ -2,6 +2,9 @@ package io.github.lvbo.learn.lombok.example;
 
 import lombok.Synchronized;
 
+/**
+ * @author lvbo
+ */
 public class SynchronizedExample {
     private final Object readLock = new Object();
 

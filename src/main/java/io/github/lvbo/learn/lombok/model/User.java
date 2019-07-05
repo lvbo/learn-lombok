@@ -2,6 +2,9 @@ package io.github.lvbo.learn.lombok.model;
 
 import lombok.*;
 
+/**
+ * @author lvbo
+ */
 @Getter
 @Setter
 @ToString

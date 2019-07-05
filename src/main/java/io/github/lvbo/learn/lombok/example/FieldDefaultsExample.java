@@ -5,6 +5,9 @@ import lombok.experimental.FieldDefaults;
 import lombok.experimental.NonFinal;
 import lombok.experimental.PackagePrivate;
 
+/**
+ * @author lvbo
+ */
 @FieldDefaults(makeFinal=true, level= AccessLevel.PRIVATE)
 public class FieldDefaultsExample {
     public final int a;

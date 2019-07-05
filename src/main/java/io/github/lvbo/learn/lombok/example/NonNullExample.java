@@ -3,6 +3,9 @@ package io.github.lvbo.learn.lombok.example;
 import io.github.lvbo.learn.lombok.model.User;
 import lombok.NonNull;
 
+/**
+ * @author lvbo
+ */
 public class NonNullExample {
     private String name;
 

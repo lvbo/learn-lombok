@@ -4,6 +4,9 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 
+/**
+ * @author lvbo
+ */
 @Data
 @Slf4j
 @Builder

@@ -4,6 +4,9 @@ import lombok.SneakyThrows;
 
 import java.io.UnsupportedEncodingException;
 
+/**
+ * @author lvbo
+ */
 public class SneakyThrowsExample implements Runnable {
 
     @SneakyThrows(UnsupportedEncodingException.class)
